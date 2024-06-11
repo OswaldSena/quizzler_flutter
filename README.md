@@ -19,7 +19,7 @@ To get started with Quizzler, follow these steps:
     - Open Android Studio.
     - Go to `File` -> `New` -> `Project from Version Control`.
     - Select `Git` from the drop-down menu.
-    - Enter the repository URL: `git@github.com:OswaldSena/quizzler_flutter.git`.
+    - Enter the repository URL: `https://github.com/OswaldSena/quizzler_flutter.git`.
     - Click `Clone`.
 
 2. **Navigate to the project directory:**
